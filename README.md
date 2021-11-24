@@ -1,4 +1,4 @@
-# mad-assignment-webapi
+# MAD Assignment Web API (for IS)
 
 ### Registration Number: ..............
 
@@ -17,4 +17,4 @@ Hotels should be should have a name, the name of the owner(owner can be individu
 # Note: Don't be limited to the features specified in instructions, feel free to add any other feature you think is necessary.
 
 
-###: Link to Postman Collection :
+#### Link to Postman Collection : 
