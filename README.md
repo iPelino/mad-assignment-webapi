@@ -14,7 +14,7 @@ Hotels should be should have a name, the name of the owner(owner can be individu
 4. Use Postman to document your Web API.
 5. Submission will be done via this repository but you should also include a link to your postman collection.
 
-# Note: Don't be limited to the features specified in instructions, feel free to add any other feature you think is necessary.
+### Note: Don't be limited to the features specified in instructions, feel free to add any other feature you think is necessary.
 
 
 #### Link to Postman Collection : 
